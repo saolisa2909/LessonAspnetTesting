@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Chapter2_VideoTesting2", ".", "{A358ADCA-97C8-4866-A30D-A03AD2F85579}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61912"
+		Debug.AspNetCompiler.PhysicalPath = "..\Chapter2_VideoTesting2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61912\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61912"
+		Release.AspNetCompiler.PhysicalPath = "..\Chapter2_VideoTesting2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61912\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61912"
+		SlnRelativePath = "..\Chapter2_VideoTesting2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A358ADCA-97C8-4866-A30D-A03AD2F85579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A358ADCA-97C8-4866-A30D-A03AD2F85579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D4A13F-16F9-4E38-89F1-8D30A596D807}
+	EndGlobalSection
+EndGlobal

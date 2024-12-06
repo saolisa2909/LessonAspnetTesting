@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\calendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:calendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\testing_dropdownlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:testing_dropdownlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\hyperlink.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:hyperlink.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|d:\\study\\work_num\\num_y4\\netjs\\chapter2_videotesting2\\labeltesing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:labeltesing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\fileupload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:fileupload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\testing_3dropdownlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:testing_3dropdownlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\testing_3dropdownlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:testing_3dropdownlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\homework.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:homework.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\homework.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:homework.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\imagebutton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:imagebutton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\fileupload.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:fileupload.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\autopostbacktesting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:autopostbacktesting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\textboxtexting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:textboxtexting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\checkboxlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:checkboxlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\radiobutton.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:radiobutton.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\image.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:image.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\radiobutton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:radiobutton.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\checkboxtesting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:checkboxtesting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\checkboxnautopostback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:checkboxnautopostback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\checkboxnautopostback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:checkboxnautopostback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\checkboxtesting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:checkboxtesting.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\radiobuutonnpostback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:radiobuutonnpostback.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\radiobuutonnpostback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:radiobuutonnpostback.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\autopostbacktesting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:autopostbacktesting.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\testing_dropdownlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:testing_dropdownlist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\labeltesing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A358ADCA-97C8-4866-A30D-A03AD2F85579}|D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2|solutionrelative:labeltesing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileUpload.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\FileUpload.aspx",
+              "RelativeDocumentMoniker": "FileUpload.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\FileUpload.aspx",
+              "RelativeToolTip": "FileUpload.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T11:00:44.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabelTesing.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\LabelTesing.aspx",
+              "RelativeDocumentMoniker": "LabelTesing.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\LabelTesing.aspx",
+              "RelativeToolTip": "LabelTesing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T10:50:42.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hyperlink.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Hyperlink.aspx",
+              "RelativeDocumentMoniker": "Hyperlink.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Hyperlink.aspx",
+              "RelativeToolTip": "Hyperlink.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T11:07:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Testing_DropdownList.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_DropdownList.aspx",
+              "RelativeDocumentMoniker": "Testing_DropdownList.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_DropdownList.aspx",
+              "RelativeToolTip": "Testing_DropdownList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-20T13:11:58.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calendar.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Calendar.aspx",
+              "RelativeDocumentMoniker": "Calendar.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Calendar.aspx",
+              "RelativeToolTip": "Calendar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T11:04:07.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Testing_3dropdownlist.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_3dropdownlist.aspx.cs",
+              "RelativeDocumentMoniker": "Testing_3dropdownlist.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_3dropdownlist.aspx.cs",
+              "RelativeToolTip": "Testing_3dropdownlist.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:46:01.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Testing_3dropdownlist.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_3dropdownlist.aspx",
+              "RelativeDocumentMoniker": "Testing_3dropdownlist.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_3dropdownlist.aspx",
+              "RelativeToolTip": "Testing_3dropdownlist.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T11:26:10.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutoPostBackTesting.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\AutoPostBackTesting.aspx",
+              "RelativeDocumentMoniker": "AutoPostBackTesting.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\AutoPostBackTesting.aspx",
+              "RelativeToolTip": "AutoPostBackTesting.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T13:04:32.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeWork.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\HomeWork.aspx",
+              "RelativeDocumentMoniker": "HomeWork.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\HomeWork.aspx",
+              "RelativeToolTip": "HomeWork.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-05T06:02:44.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeWork.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\HomeWork.aspx.cs",
+              "RelativeDocumentMoniker": "HomeWork.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\HomeWork.aspx.cs",
+              "RelativeToolTip": "HomeWork.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T06:02:58.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageButton.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\ImageButton.aspx",
+              "RelativeDocumentMoniker": "ImageButton.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\ImageButton.aspx",
+              "RelativeToolTip": "ImageButton.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T11:01:32.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-04T06:39:04.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileUpload.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\FileUpload.aspx.cs",
+              "RelativeDocumentMoniker": "FileUpload.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\FileUpload.aspx.cs",
+              "RelativeToolTip": "FileUpload.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:14:27.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TextBoxTexting.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\TextBoxTexting.aspx",
+              "RelativeDocumentMoniker": "TextBoxTexting.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\TextBoxTexting.aspx",
+              "RelativeToolTip": "TextBoxTexting.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T11:10:45.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CheckBoxList.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxList.aspx",
+              "RelativeDocumentMoniker": "CheckBoxList.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxList.aspx",
+              "RelativeToolTip": "CheckBoxList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-27T11:03:09.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CheckBoxNAutoPostBack.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxNAutoPostBack.aspx.cs",
+              "RelativeDocumentMoniker": "CheckBoxNAutoPostBack.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxNAutoPostBack.aspx.cs",
+              "RelativeToolTip": "CheckBoxNAutoPostBack.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:00:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RadioButton.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioButton.aspx",
+              "RelativeDocumentMoniker": "RadioButton.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioButton.aspx",
+              "RelativeToolTip": "RadioButton.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-25T10:13:31.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RadioButton.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioButton.aspx.cs",
+              "RelativeDocumentMoniker": "RadioButton.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioButton.aspx.cs",
+              "RelativeToolTip": "RadioButton.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:22:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Image.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Image.aspx",
+              "RelativeDocumentMoniker": "Image.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Image.aspx",
+              "RelativeToolTip": "Image.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-25T18:40:05.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckBoxNAutoPostBack.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxNAutoPostBack.aspx",
+              "RelativeDocumentMoniker": "CheckBoxNAutoPostBack.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxNAutoPostBack.aspx",
+              "RelativeToolTip": "CheckBoxNAutoPostBack.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-25T09:51:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CheckBoxTesting.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxTesting.aspx.cs",
+              "RelativeDocumentMoniker": "CheckBoxTesting.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxTesting.aspx.cs",
+              "RelativeToolTip": "CheckBoxTesting.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:41:10.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CheckBoxTesting.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxTesting.aspx",
+              "RelativeDocumentMoniker": "CheckBoxTesting.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\CheckBoxTesting.aspx",
+              "RelativeToolTip": "CheckBoxTesting.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-24T13:21:26.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RadioBuutonNPostBack.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioBuutonNPostBack.aspx.cs",
+              "RelativeDocumentMoniker": "RadioBuutonNPostBack.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioBuutonNPostBack.aspx.cs",
+              "RelativeToolTip": "RadioBuutonNPostBack.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:29:42.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RadioBuutonNPostBack.aspx",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioBuutonNPostBack.aspx",
+              "RelativeDocumentMoniker": "RadioBuutonNPostBack.aspx",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\RadioBuutonNPostBack.aspx",
+              "RelativeToolTip": "RadioBuutonNPostBack.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-25T10:27:48.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Testing_DropdownList.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_DropdownList.aspx.cs",
+              "RelativeDocumentMoniker": "Testing_DropdownList.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\Testing_DropdownList.aspx.cs",
+              "RelativeToolTip": "Testing_DropdownList.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T12:50:42.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LabelTesing.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\LabelTesing.aspx.cs",
+              "RelativeDocumentMoniker": "LabelTesing.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\LabelTesing.aspx.cs",
+              "RelativeToolTip": "LabelTesing.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T11:02:14.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AutoPostBackTesting.aspx.cs",
+              "DocumentMoniker": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\AutoPostBackTesting.aspx.cs",
+              "RelativeDocumentMoniker": "AutoPostBackTesting.aspx.cs",
+              "ToolTip": "D:\\Study\\Work_NUM\\NUM_Y4\\NetJS\\Chapter2_VideoTesting2\\AutoPostBackTesting.aspx.cs",
+              "RelativeToolTip": "AutoPostBackTesting.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T13:11:18.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
